@@ -1,0 +1,48 @@
+
+h1{
+    color: rgb(27, 132, 180);
+}
+h4{
+    color: rgb(245, 45, 85);
+}
+p{
+    color: darkgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+label{
+    color: darkgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+body {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    background-color: lightgrey;
+    text-align: center;
+    width: inherit;
+    height: inherit;
+}
+#imagem{
+    clear: both;
+    float: left;
+}
+#imagem2{
+    clear: both;
+    float: right;
+}
+form{
+    text-align: left;
+}
+.destaque{
+    color:#0e2f4b; font-size:22px; font-weight:bold; padding:0.5%; text-decoration-line: underline;
+}
+#principal {
+    color:#df2b85; font-size:40px; font-weight:italic; padding:0.5%; text-decoration-line: underline
+}
+input[type='text']{
+    background-color: lavender;
+}
+#formularios{
+    text-align: left;
+}
